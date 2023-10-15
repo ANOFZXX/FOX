@@ -17,6 +17,36 @@
          "name": "VIP-PLUS-TH-01-TRUE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/vip-th-01-true.ovpn"
       }
+,
+{
+         "name": "FREE-MOD-SG-01-AIS",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/sg-ais-1.ovpn"
+      }
+,
+{
+         "name": "FREE-MOD-SG-01-DTAC",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/sg-dtac-1.ovpn"
+      }
+,
+{
+         "name": "FREE-MOD-SG-01-TRUE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/sg-true-1.ovpn"
+      }
+,
+{
+         "name": "FREE-MOD-SG-02-AIS",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/sg-ais-2.ovpn"
+      }
+,
+{
+         "name": "FREE-MOD-SG-02-DTAC",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/sg-dtac-2.ovpn"
+      }
+,
+{
+         "name": "FREE-MOD-SG-02-TRUE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/sg-true-2.ovpn"
+      }
 
    ],
 "message":"
@@ -43,5 +73,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
