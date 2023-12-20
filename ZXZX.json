@@ -1,47 +1,19 @@
+
 {
    "files": [    
 
 
 
 {
-         "name": "FREE-ONE-GAME-Thailand-AIS",
+         "name": "FREE-AIS-Thailand-ONE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-ONE-GAME-Thailand-TRUE",
+         "name": "FREE-TRUE-Thailand-ONE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-TRUE.ovpn"
       }
-,
-{
-         "name": "FREE-TWO-GAME-Thailand-AIS",
-         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-TWO-GAME-Thailand-TRUE",
-         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-THREE-GAME-Thailand-AIS",
-         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-THREE-GAME-Thailand-TRUE",
-         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-FOUR-GAME-Thailand-AIS",
-         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-FOUR-GAME-Thailand-TRUE",
-         "url": "https://raw.githubusercontent.com/ANOFZXX/FOX/main/FREE-Thailand-ONE-TRUE.ovpn"
-      }
+
 
    ],
 "message":"
@@ -78,7 +50,7 @@
 วิธีกดสมัคร *900*3967# 📞
 สมัครแล้ว เชื่อมต่อVPN เล่นอินเตอร์เน็ตแรงไม่จำกัด
 
-\n\nเวอร์ชั่นไฟล์:1",
+\n\nUpdate:1",
 "title":"New Update File" ,
    "version":1
-      }
+}
